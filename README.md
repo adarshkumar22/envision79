@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Akshat
+#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Adarsh Kumar
 
-- 🎓 I'm an IT engineering sophomore at NSUT, Delhi. <br />
+- 🎓 I'm an Computer engineering sophomore at NSUT, Delhi. <br />
 - 🌱 I do programming in C++, and web development. <br />
 - 🔭 I’m currently working on DS and few projects <br/>
 - 💬 Ask me about MERN Stack or DSA. <br />
