@@ -7,8 +7,7 @@
 - 🌱 I do programming in C++, and web development. <br />
 - 🔭 I’m currently working on DS and few projects <br/>
 - 💬 Ask me about MERN Stack or DSA. <br />
-- 😄 Pronouns: he/him <br/><br />
-- 
+- 😄 Pronouns: he/him <br/>
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/adarsh79/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
