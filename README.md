@@ -1,4 +1,4 @@
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Adarsh Kumar
+#  Hey! I'm Adarsh Kumar 🙌
 
 - 🎓 I'm an Computer engineering sophomore at NSUT, Delhi. <br />
 - 🌱 I do programming in C++, and web development. <br />
