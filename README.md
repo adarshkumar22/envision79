@@ -1,6 +1,6 @@
 #  Hey! I'm Adarsh Kumar 🙌
 
-- 🎓 I'm an Computer engineering sophomore at NSUT, Delhi. <br />
+- 🎓 I'm a Computer engineering sophomore at NSUT, Delhi. <br />
 - 🌱 I do programming in C++, and web development. <br />
 - 🔭 I’m currently working on DS and few projects <br/>
 - 💬 Ask me about MERN Stack or DSA. <br />
