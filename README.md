@@ -2,7 +2,7 @@
 
 - 🎓 I'm a Computer engineering sophomore at NSUT, Delhi. <br />
 - 🌱 I do programming in C++, and web development. <br />
-- 🔭 I’m currently working on DS and few projects <br/>
+- 🔭 I’m currently working on my problem solving skills and my projects. <br/>
 - 💬 Ask me about MERN Stack or DSA. <br />
 - 😄 Pronouns: he/him <br/>
 - 📫 How to reach me:
